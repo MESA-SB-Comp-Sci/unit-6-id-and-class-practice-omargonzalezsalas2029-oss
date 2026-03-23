@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: plum;
+}
+.pink-bg{
+   background-color: pink;
+}
+
 
 /* ─────────────────────────────────────────────
    PART 1 — Fully Guided
@@ -10,6 +17,7 @@
    ───────────────────────────────────────────── */
 
 /* Task 1: Write a CLASS rule called "pink-bg"
+  <p class="pink-">
    It should change the background color to pink */
 
 
@@ -20,6 +28,9 @@
 /* Task 3: Write a CLASS rule called "big-border"
    It should add a border — use: 3px solid black */
 
+.blue-text{
+   background-color: ;
+}
 
 /* Task 4: Write an ID rule called "main-title"
    It should change the background color to navy
