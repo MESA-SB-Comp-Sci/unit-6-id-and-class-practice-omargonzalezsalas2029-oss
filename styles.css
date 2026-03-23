@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* ─────────────────────────────────────────────
+   PART 1 — Fully Guided
+   We tell you the name AND what goes inside.
+   Your job: write the syntax correctly.
+   ───────────────────────────────────────────── */
+
+/* Task 1: Write a CLASS rule called "pink-bg"
+   It should change the background color to pink */
+
+
+/* Task 2: Write a CLASS rule called "blue-text"
+   It should change the text color to blue */
+
+
+/* Task 3: Write a CLASS rule called "big-border"
+   It should add a border — use: 3px solid black */
+
+
+/* Task 4: Write an ID rule called "main-title"
+   It should change the background color to navy
+   and the text color to white */
+
+
+/* Task 5: Write an ID rule called "footer-text"
+   It should change the text color to gray
+   and the background color to black */
+
+
+/* ─────────────────────────────────────────────
+   PART 2 — Semi Guided
+   We give you the name but NOT what goes inside.
+   Your job: decide the properties and values.
+   Each rule must have at least:
+     - background-color
+     - color
+   ───────────────────────────────────────────── */
+
+/* Task 6: Write a CLASS rule called "highlight" */
+
+
+/* Task 7: Write a CLASS rule called "list-style" */
+
+
+/* Task 8: Write an ID rule called "page-heading" */
+
+
+/* ─────────────────────────────────────────────
+   PART 3 — Open Ended
+   You decide everything — the name AND the styles.
+   Write 2 class rules and 1 ID rule below.
+   ───────────────────────────────────────────── */
+
+/* Your class rule 1 */
+
+
+/* Your class rule 2 */
+
+
+/* Your ID rule */
